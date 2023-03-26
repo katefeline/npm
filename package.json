@@ -1,0 +1,26 @@
+{
+  "name": "lesson10",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/katefeline/npm.git"
+  },
+  "author": "Kate",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/katefeline/npm/issues"
+  },
+  "homepage": "https://github.com/katefeline/npm#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "eslint": "^8.36.0",
+    "eslint-plugin-react": "^7.32.2"
+  }
+}
